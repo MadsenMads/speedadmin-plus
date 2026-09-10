@@ -21,6 +21,10 @@ The privacy policy is published at [madsenmads.github.io/speedadmin-plus](https:
 
 This project is open source under the [MIT License](LICENSE).
 
+## Safari
+
+The same WebExtension source can be packaged for Safari on macOS with Xcode. See [SAFARI.md](SAFARI.md) for the packaging and App Store distribution steps.
+
 ## Permissions
 
 - `storage` saves the enabled/disabled setting locally so it is available after the popup or browser is closed.
