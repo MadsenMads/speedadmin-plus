@@ -17,7 +17,7 @@ Speedadmin Plus adds week numbers to dates and converts minute totals on SpeedAd
 
 See [PRIVACY.md](PRIVACY.md) for the complete privacy policy.
 
-The GitHub Pages version is in [`docs/index.html`](docs/index.html). To publish it, push this project to a GitHub repository, then open **Settings > Pages**, choose **Deploy from a branch**, select the default branch and the `/docs` folder, and save. Use the resulting HTTPS Pages URL as the privacy-policy URL in the Chrome Web Store dashboard.
+The privacy policy is published at [madsenmads.github.io/speedadmin-plus](https://madsenmads.github.io/speedadmin-plus/). Its source is [`docs/index.html`](docs/index.html).
 
 This project is open source under the [MIT License](LICENSE).
 
