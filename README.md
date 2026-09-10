@@ -21,6 +21,10 @@ The privacy policy is published at [madsenmads.github.io/speedadmin-plus](https:
 
 This project is open source under the [MIT License](LICENSE).
 
+## Chrome Web Store package
+
+Run `./package-chrome.ps1` in PowerShell to create a clean, versioned upload archive such as `Speedadmin-Plus-v1.2.0.zip`. The script reads the version from `manifest.json`, includes only the files required by Chrome, and verifies the archive contents.
+
 ## Safari
 
 The same WebExtension source can be packaged for Safari on macOS with Xcode. See [SAFARI.md](SAFARI.md) for the packaging and App Store distribution steps.
